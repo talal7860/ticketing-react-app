@@ -18,6 +18,7 @@ class SupportRepresentatives extends Component {
 			id: 1,
 			name: 1,
       email: 1,
+      ticket_count: 1,
 			created_at: 1,
 		};
 	}
